@@ -1,0 +1,2 @@
+# EasyOCR_Trainer
+.
